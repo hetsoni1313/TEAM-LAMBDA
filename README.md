@@ -3,7 +3,7 @@
 
 ## REPORT
 
-##**Tax Liability Prediction & Migration-Based Tax Change Classification**
+## **Tax Liability Prediction & Migration-Based Tax Change Classification**
 
 ## **Overview**
 The project focuses on two machine learning tasks built o the US tax return and migration data:
@@ -18,8 +18,7 @@ The project focuses on two machine learning tasks built o the US tax return and 
 
 ##  **Problem Statement**
 
-### **1️;'
- Regression: Tax Liability Prediction**
+### **1️Regression: Tax Liability Prediction**
 
 The objective is to build a regression model that predicts **total tax liability** for a given region based on key financial indicators such as:
 
