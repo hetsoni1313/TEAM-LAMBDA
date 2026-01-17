@@ -119,6 +119,6 @@ Key visualizations and insights:
 
 ###  **Contributors**
    1. Het Katrodiya
-   2. Gaurang jadhav
+   2. Gaurang jadav
    3. Aksh Patel
    4. Vrushil Panwala
